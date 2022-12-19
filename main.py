@@ -25,7 +25,6 @@ def create_markup (path: str) -> types.ReplyKeyboardMarkup:
                 markup.add(types.KeyboardButton(i))
     else:
         markup.add(types.KeyboardButton('Пусто'))
-
     if path != '.':
         markup.add(types.KeyboardButton('↩Назад'))
         markup.add(types.KeyboardButton('🏠В начало'))
