@@ -1,6 +1,4 @@
 {
     "token": "",
-    "admins": [
-    ],
-    "xml": "./db.xml"
+    "path_with_books": "."
 }
