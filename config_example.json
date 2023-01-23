@@ -1,4 +1,8 @@
 {
     "token": "",
-    "path_with_books": "."
+    "src_path": "./src", 
+    "dst_path": "./dst",
+    "root_path": ".",
+    "admin": 0,
+    "interval_in_minuts": 1
 }
